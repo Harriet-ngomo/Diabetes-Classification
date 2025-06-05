@@ -146,6 +146,14 @@ The dataset consists of patient demographic data and routine lab test results.
 - `scikit-learn` – Preprocessing, modeling, evaluation  
 - `imblearn` – SMOTE for class imbalance handling  
 
+---
+
+## Future Work
+- Experiment with other classifiers like **Random Forest**, **XGBoost**.
+- Deploy model in a web interface using **Flask** or **Streamlit**.
+- Perform **feature importance analysis** to explain predictions.
+- Apply **cross-validation** for improved robustness.
+
 Diabetes-Classification
 ├── data
 │   ├── raw
@@ -161,13 +169,3 @@ Diabetes-Classification
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
-
-
----
-
-## Future Work
-- Experiment with other classifiers like **Random Forest**, **XGBoost**.
-- Deploy model in a web interface using **Flask** or **Streamlit**.
-- Perform **feature importance analysis** to explain predictions.
-- Apply **cross-validation** for improved robustness.
