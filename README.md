@@ -154,6 +154,9 @@ The dataset consists of patient demographic data and routine lab test results.
 - Perform **feature importance analysis** to explain predictions.
 - Apply **cross-validation** for improved robustness.
 
+## Project Structure
+
+```plaintext
 Diabetes-Classification
 ├── data
 │   ├── raw
@@ -169,3 +172,4 @@ Diabetes-Classification
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
