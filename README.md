@@ -109,11 +109,11 @@ The dataset consists of patient demographic data and routine lab test results.
 
 ### Models Used
 - **Logistic Regression**: Interpretable baseline model.
-- *(Optional: Add other models like Decision Trees, Random Forests, etc. if used)*
+- **Untuned and tuned Decision Trees**
 
 ### Train-Test Strategy
-- 70/30 split using `train_test_split`.
-- Feature transformation and SMOTE applied on **training data only**.
+- 75/25 split using `train_test_split`.
+- Feature transformation and SMOTE applied on **training data only**
 
 ---
 
