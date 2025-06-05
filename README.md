@@ -146,19 +146,22 @@ The dataset consists of patient demographic data and routine lab test results.
 - `scikit-learn` – Preprocessing, modeling, evaluation  
 - `imblearn` – SMOTE for class imbalance handling  
 
-Diabetes-Classification/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── notebooks/
-│   └── exploratory_analysis.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── evaluation.py
+Diabetes-Classification
+├── data
+│   ├── raw
+│   └── processed
+├── notebooks
+│   └── diabetes_eda.ipynb
+├── src
+│   ├── preprocess.py
+│   ├── train_model.py
+│   └── evaluate.py
+├── models
+├── reports
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
 
 
 ---
