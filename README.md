@@ -163,13 +163,8 @@ Diabetes-Classification
 │   └── processed
 ├── notebooks
 │   └── diabetes_eda.ipynb
-├── src
-│   ├── preprocess.py
-│   ├── train_model.py
-│   └── evaluate.py
 ├── models
 ├── reports
 ├── README.md
-├── requirements.txt
 └── .gitignore
 
