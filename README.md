@@ -166,5 +166,5 @@ Diabetes-Classification
 ├── models
 ├── reports
 ├── README.md
-└── .gitignore
+
 
